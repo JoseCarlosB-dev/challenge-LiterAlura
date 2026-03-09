@@ -66,11 +66,3 @@ A aplicação utiliza a **Gutendex API**, uma API pública baseada no projeto Gu
 Este projeto foi desenvolvido com foco educacional, com o objetivo de praticar desenvolvimento backend utilizando **Java e Spring Boot**.
 
 ---
-
-Se quiser, também posso te fazer uma **versão ainda mais forte para portfólio (nível GitHub profissional)** que **recrutadores realmente gostam**, com:
-
-* badges de tecnologias
-* seção de arquitetura
-* estrutura do projeto
-* endpoints da API
-* exemplo de requisições.
